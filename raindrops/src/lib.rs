@@ -17,5 +17,5 @@ pub fn raindrops(n: u32) -> String {
         string += "Plong";
     }
 
-    return string;
+    string
 }
